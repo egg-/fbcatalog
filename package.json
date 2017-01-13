@@ -1,0 +1,41 @@
+{
+  "name": "fbcatalog",
+  "version": "0.1.0",
+  "author": {
+    "name": "egg",
+    "email": "i@egg.pe.kr"
+  },
+  "description": "fbcatalog is a helper that creates a facebook catalog based on Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egg-/fbcatalog.git"
+  },
+  "keywords": [
+    "facebook",
+    "fb",
+    "catalog",
+    "feed"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egg-/fbcatalog/issues"
+  },
+  "homepage": "https://github.com/egg-/fbcatalog#readme",
+  "devDependencies": {
+    "async": "^2.1.4",
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-mocha-test": "^0.13.2",
+    "matchdep": "^1.0.1",
+    "mocha": "^3.2.0",
+    "standard": "^8.6.0",
+    "xml2js": "^0.4.17"
+  },
+  "dependencies": {
+    "xmlbuilder": "^8.2.2"
+  }
+}

@@ -1,0 +1,64 @@
+[
+	{
+		"id": "DB_1",
+		"title": "Dog Bowl In Blue",
+		"applink": {
+			"ios_url": "example-ios://electronic/db_1",
+			"ios_app_store_id": "123",
+			"ios_app_name": "Electronic Example iOS",
+			"android_url": "example-android://electronic/db_1",
+			"android_package": "com.electronic.example",
+			"android_app_name": "Electronic Example Android",
+			"windows_phone_url": "example-windows://electronic/db_1",
+			"windows_phone_app_id": "64ec0d1b-5b3b-4c77-a86b-5e12d465edc0",
+			"windows_phone_app_name": "Electronic Example Windows"
+		},
+		"description": "Solid plastic Dog Bowl in marine blue color",
+		"google_product_category": "Animals > Pet Supplies",
+		"product_type": "Bowls & Dining > Food & Water Bowls",
+		"link": "http://www.example.com/bowls/db-1.html",
+		"image_link": "http://images.example.com/DB_1.png",
+		"condition": "new",
+		"availability": "in stock",
+		"price": "9.99 GBP",
+		"brand": "Example",
+		"item_group_id": "DB_GROUP_1",
+		"shipping": {
+			"country": "UK",
+			"service": "Standard",
+			"price": "9.95 GBP"
+		},
+		"custom_label_0": "Made in Waterford, IE"
+	},
+	{
+		"id": "DB_2",
+		"title": "Dog Bowl In Yellow",
+		"applink": {
+			"ios_url": "example-ios://electronic/db_2",
+			"ios_app_store_id": "123",
+			"ios_app_name": "Electronic Example iOS",
+			"android_url": "example-android://electronic/db_2",
+			"android_package": "com.electronic.example",
+			"android_app_name": "Electronic Example Android",
+			"windows_phone_url": "example-windows://electronic/db_2",
+			"windows_phone_app_id": "64ec0d1b-5b3b-4c77-a86b-5e12d465edc0",
+			"windows_phone_app_name": "Electronic Example Windows"
+		},
+		"description": "Solid plastic Dog Bowl in yellow color",
+		"google_product_category": "Animals > Pet Supplies",
+		"product_type": "Bowls & Dining > Food & Water Bowls",
+		"link": "http://www.example.com/bowls/db-2.html",
+		"image_link": "http://images.example.com/DB_2.png",
+		"condition": "new",
+		"availability": "in stock",
+		"price": "9.99 GBP",
+		"brand": "Example",
+		"item_group_id": "DB_GROUP_1",
+		"shipping": {
+			"country": "UK",
+			"service": "Standard",
+			"price": "9.95 GBP"
+		},
+		"custom_label_0": "Made in Waterford, IE"
+	}
+]
