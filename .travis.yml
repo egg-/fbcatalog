@@ -1,8 +1,9 @@
 language: node_js
 node_js:
-  - "6.1"
-  - "5.11"
-  - "4.4.6"
-  - "4.2.2"
+  - 12.18.3
+  - '6.1'
+  - '5.11'
+  - 4.4.6
+  - 4.2.2
 before_script:
   - npm install grunt-cli -g
