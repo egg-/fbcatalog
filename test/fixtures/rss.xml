@@ -34,6 +34,8 @@
         <g:price>9.95 GBP</g:price>
       </g:shipping>
       <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+      <g:additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</g:additional_image_link>
     </item>
 
     <item>
@@ -64,6 +66,8 @@
         <g:price>9.95 GBP</g:price>
       </g:shipping>
       <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+      <g:additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</g:additional_image_link>
+      <g:additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</g:additional_image_link>
     </item>
   </channel>
 </rss>

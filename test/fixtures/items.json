@@ -28,7 +28,11 @@
 			"service": "Standard",
 			"price": "9.95 GBP"
 		},
-		"custom_label_0": "Made in Waterford, IE"
+		"custom_label_0": "Made in Waterford, IE",
+    "additional_image_link": [
+      "https://cdn.mycdn.foo/files/123123123_image2.jpg",
+      "https://cdn.mycdn.foo/files/123123123_image3.jpg"
+    ]
 	},
 	{
 		"id": "DB_2",
@@ -59,6 +63,10 @@
 			"service": "Standard",
 			"price": "9.95 GBP"
 		},
-		"custom_label_0": "Made in Waterford, IE"
+		"custom_label_0": "Made in Waterford, IE",
+    "additional_image_link": [
+      "https://cdn.mycdn.foo/files/123123123_image2.jpg",
+      "https://cdn.mycdn.foo/files/123123123_image3.jpg"
+    ]
 	}
 ]
